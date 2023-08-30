@@ -1,4 +1,5 @@
-### Hi there 👋
+### have you heard of the hit game "among us"
+## i'll add actual things here eventually but for now i'm keeping it simple
 
 <!--
 **BaconBusterYT/BaconBusterYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
