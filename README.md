@@ -1,5 +1,5 @@
-### have you heard of the hit game "among us"
-## i'll add actual things here eventually but for now i'm keeping it simple
+### Software developer and game designer, working on a few private projects right now.
+Check out "I Cast Fist" on itch.io!
 
 <!--
 **BaconBusterYT/BaconBusterYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
